@@ -1,2 +1,1 @@
-# scraping
-Este repositorio es para saber si el web scraping de chrome sirve 
+# Este codigo muestra las precios reales y los precios predecidos 
